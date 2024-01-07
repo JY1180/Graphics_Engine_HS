@@ -5,7 +5,7 @@ command\
 values\
 (ex.)\
 sphere\
-250 250 0 150\
+250 250 0 150
 
 list of commands:
 push: Takes no additional values. It saves all the transformations applied.
