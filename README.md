@@ -1,7 +1,7 @@
 From my computer graphics class (has not ended as of 1/7/2024)
 
 commands are carried out like this:
-command__
+command\
 values__
 (ex.)__
 sphere__
