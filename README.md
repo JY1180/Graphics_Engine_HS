@@ -1,9 +1,11 @@
-commands are carried out like this:\
+commands are carried out like this, and put in 'script' file:\
 command\
 values\
 (ex.)\
 sphere\
 250 250 0 150
+
+run make in terminal to see your image!
 
 list of commands:
 push: Takes no additional values. It saves all the transformations applied.
